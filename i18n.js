@@ -15,6 +15,7 @@
     "Datasets": "数据集",
     "Evaluation": "评估",
     "Code": "代码",
+    "Paper": "论文",
     "Context-rich tasks. State-adaptive interaction.": "情境丰富的预测任务，状态自适应交互。",
     "CastWorld three-color globe and forecasting signal": "CastWorld 三色地球与预测信号标志",
     "Benchmarking Context-Aware Agentic": "情境感知智能体时间序列预测评测：",
