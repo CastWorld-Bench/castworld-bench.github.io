@@ -1,0 +1,177 @@
+[
+  {
+    "id": "iFLYTEK-PV",
+    "domain": "Energy",
+    "frequency": "15min",
+    "history": 96,
+    "horizon": 96
+  },
+  {
+    "id": "iFLYTEK-Wind",
+    "domain": "Energy",
+    "frequency": "15min",
+    "history": 96,
+    "horizon": 96
+  },
+  {
+    "id": "CN-GD-Load",
+    "domain": "Energy",
+    "frequency": "h",
+    "history": 168,
+    "horizon": 24
+  },
+  {
+    "id": "OPSD-DELU-Price",
+    "domain": "Energy",
+    "frequency": "h",
+    "history": 96,
+    "horizon": 24
+  },
+  {
+    "id": "WB-T850_1",
+    "domain": "Natural science",
+    "frequency": "6h",
+    "history": 72,
+    "horizon": 24
+  },
+  {
+    "id": "WB-T850_2",
+    "domain": "Natural science",
+    "frequency": "6h",
+    "history": 72,
+    "horizon": 24
+  },
+  {
+    "id": "WB-T850_3",
+    "domain": "Natural science",
+    "frequency": "6h",
+    "history": 72,
+    "horizon": 24
+  },
+  {
+    "id": "SILSO-Sunspot",
+    "domain": "Natural science",
+    "frequency": "D",
+    "history": 30,
+    "horizon": 30
+  },
+  {
+    "id": "US-RPI",
+    "domain": "Economics and finance",
+    "frequency": "MS",
+    "history": 48,
+    "horizon": 12
+  },
+  {
+    "id": "US-DFF",
+    "domain": "Economics and finance",
+    "frequency": "D",
+    "history": 30,
+    "horizon": 30
+  },
+  {
+    "id": "CN-Port-Export",
+    "domain": "Economics and finance",
+    "frequency": "D",
+    "history": 30,
+    "horizon": 30
+  },
+  {
+    "id": "CapitalBikeshare",
+    "domain": "Public services",
+    "frequency": "h",
+    "history": 168,
+    "horizon": 24
+  },
+  {
+    "id": "NYC-311",
+    "domain": "Public services",
+    "frequency": "D",
+    "history": 28,
+    "horizon": 7
+  },
+  {
+    "id": "US-ICSA",
+    "domain": "Public services",
+    "frequency": "W-SAT",
+    "history": 52,
+    "horizon": 13
+  },
+  {
+    "id": "NYC-EMS",
+    "domain": "Public services",
+    "frequency": "D",
+    "history": 28,
+    "horizon": 7
+  },
+  {
+    "id": "CN-Flu-PosRate",
+    "domain": "Public services",
+    "frequency": "W-MON",
+    "history": 52,
+    "horizon": 13
+  },
+  {
+    "id": "M5-TX3-FOODS",
+    "domain": "Retail",
+    "frequency": "D",
+    "history": 35,
+    "horizon": 28
+  },
+  {
+    "id": "RetailII-NetQty",
+    "domain": "Retail",
+    "frequency": "h",
+    "history": 168,
+    "horizon": 24
+  },
+  {
+    "id": "IndustryHeat-ActiveUnits",
+    "domain": "Industrial operations",
+    "frequency": "D",
+    "history": 30,
+    "horizon": 30
+  },
+  {
+    "id": "MotorOil-GR-TI824",
+    "domain": "Industrial operations",
+    "frequency": "15min",
+    "history": 96,
+    "horizon": 96
+  },
+  {
+    "id": "Abilene-SEA-NYC",
+    "domain": "Web services",
+    "frequency": "5min",
+    "history": 30,
+    "horizon": 30
+  },
+  {
+    "id": "Wiki-EN-Views",
+    "domain": "Web services",
+    "frequency": "D",
+    "history": 30,
+    "horizon": 30
+  },
+  {
+    "id": "CAMELS-SPAT_1",
+    "domain": "Environment",
+    "frequency": "D",
+    "history": 30,
+    "horizon": 30
+  },
+  {
+    "id": "CAMELS-SPAT_2",
+    "domain": "Environment",
+    "frequency": "D",
+    "history": 30,
+    "horizon": 30
+  },
+  {
+    "id": "AQS-ThousandOaks-O3",
+    "domain": "Environment",
+    "frequency": "h",
+    "history": 168,
+    "horizon": 24
+  }
+]

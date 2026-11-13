@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+  <title id="title">CastWorld</title>
+  <desc id="desc">A three-color globe crossed by a W-shaped forecasting signal: context-rich data, a state-adaptive harness, and decision-centric evaluation.</desc>
+  <defs>
+    <clipPath id="globe"><circle cx="64" cy="64" r="52"/></clipPath>
+  </defs>
+  <g clip-path="url(#globe)">
+    <circle cx="64" cy="64" r="52" fill="#3983B3"/>
+    <path d="M51 8C77 21 90 28 121 29L125 87C102 92 85 79 78 61C70 42 54 38 35 34Z" fill="#31A68E"/>
+    <path d="M7 79C29 68 39 71 55 88C70 105 83 109 109 112L73 128L6 119Z" fill="#E6AA50"/>
+    <ellipse cx="64" cy="64" rx="27" ry="53" fill="none" stroke="#fff" stroke-opacity=".42" stroke-width="2"/>
+    <path d="M12 64H116M24 31C48 42 81 43 105 32M22 95C47 84 82 84 106 96" fill="none" stroke="#fff" stroke-opacity=".37" stroke-width="2"/>
+    <path d="M20 60L38 80L54 48L73 79L89 52L108 62" fill="none" stroke="#fff" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M20 60L38 80L54 48L73 79L89 52L108 62" fill="none" stroke="#193E4A" stroke-width="4.2" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <circle cx="108" cy="62" r="5.4" fill="#193E4A" stroke="#fff" stroke-width="2.5"/>
+</svg>
