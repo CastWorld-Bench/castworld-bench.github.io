@@ -229,18 +229,26 @@
             ></i
           ></a>
         </div>
-        <div
-          id="cohort-tabs"
-          class="board-tabs"
-          role="group"
-          aria-label="Evaluation cohort"
-        ></div>
-        <div
-          id="board-tabs"
-          class="board-tabs level-tabs"
-          role="tablist"
-          aria-label="Evaluation level"
-        ></div>
+        <div class="leaderboard-controls">
+          <div class="leaderboard-control-group">
+            <p class="control-label" id="cohort-control-label">Evaluation cohort</p>
+            <div
+              id="cohort-tabs"
+              class="board-tabs"
+              role="group"
+              aria-labelledby="cohort-control-label"
+            ></div>
+          </div>
+          <div class="leaderboard-control-group">
+            <p class="control-label" id="level-control-label">Evaluation level</p>
+            <div
+              id="board-tabs"
+              class="board-tabs level-tabs"
+              role="tablist"
+              aria-labelledby="level-control-label"
+            ></div>
+          </div>
+        </div>
         <div id="board-panel" role="tabpanel" tabindex="0" aria-live="polite">
           <div class="board-heading">
             <div>
