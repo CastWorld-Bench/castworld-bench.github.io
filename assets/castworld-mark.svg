@@ -1,17 +1,127 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
   <title id="title">CastWorld</title>
-  <desc id="desc">A three-color globe crossed by a W-shaped forecasting signal: context-rich data, a state-adaptive harness, and decision-centric evaluation.</desc>
+  <desc id="desc">Enlarged colored context and tool symbols are embedded directly on a three-color world, with fine white clearance edges and one quiet shared orbit.</desc>
   <defs>
-    <clipPath id="globe"><circle cx="64" cy="64" r="52"/></clipPath>
+    <clipPath id="globe">
+      <circle cx="64" cy="64" r="52"/>
+    </clipPath>
   </defs>
   <g clip-path="url(#globe)">
     <circle cx="64" cy="64" r="52" fill="#3983B3"/>
     <path d="M51 8C77 21 90 28 121 29L125 87C102 92 85 79 78 61C70 42 54 38 35 34Z" fill="#31A68E"/>
     <path d="M7 79C29 68 39 71 55 88C70 105 83 109 109 112L73 128L6 119Z" fill="#E6AA50"/>
-    <ellipse cx="64" cy="64" rx="27" ry="53" fill="none" stroke="#fff" stroke-opacity=".42" stroke-width="2"/>
-    <path d="M12 64H116M24 31C48 42 81 43 105 32M22 95C47 84 82 84 106 96" fill="none" stroke="#fff" stroke-opacity=".37" stroke-width="2"/>
-    <path d="M20 60L38 80L54 48L73 79L89 52L108 62" fill="none" stroke="#fff" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M20 60L38 80L54 48L73 79L89 52L108 62" fill="none" stroke="#193E4A" stroke-width="4.2" stroke-linecap="round" stroke-linejoin="round"/>
+    <ellipse cx="64" cy="64" rx="27" ry="53" fill="none" stroke="#fff" stroke-opacity="0.08" stroke-width="1.1"/>
   </g>
-  <circle cx="108" cy="62" r="5.4" fill="#193E4A" stroke="#fff" stroke-width="2.5"/>
+  <circle cx="64" cy="64" r="42" fill="none" stroke="#F3FAFC" stroke-width="0.95" stroke-opacity="0.68"/>
+  <path d="M20 56L40 80L64 47L88 80L108 56" fill="none" stroke="#fff" stroke-width="9.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M20 56L40 80L64 47L88 80L108 56" fill="none" stroke="#193E4A" stroke-width="4.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="108" cy="56" r="5.4" fill="#193E4A" stroke="#fff" stroke-width="2.5"/>
+  <g id="variables" aria-label="variables" data-center-x="30.02129" data-center-y="39.31302">
+    <g transform="translate(23.78129 33.07302) scale(0.52)" fill="none" stroke="#193E4A" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M3 3V21H22" stroke="#FFFFFF" fill="none" stroke-width="3.8" paint-order="stroke fill"/>
+      <path d="M6 15L10 10L15 13L21 5" stroke="#FFFFFF" stroke-width="3.8" fill="none" paint-order="stroke fill"/>
+      <circle cx="6" cy="15" r="1.8" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1" paint-order="stroke fill"/>
+      <circle cx="10" cy="10" r="1.8" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1" paint-order="stroke fill"/>
+      <circle cx="15" cy="13" r="1.8" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1" paint-order="stroke fill"/>
+      <circle cx="21" cy="5" r="1.8" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1" paint-order="stroke fill"/>
+    </g>
+    <g transform="translate(23.78129 33.07302) scale(0.52)" fill="none" stroke="#193E4A" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M3 3V21H22" stroke="#3983B3"/>
+      <path d="M6 15L10 10L15 13L21 5" stroke="#3983B3" stroke-width="2.3"/>
+      <circle cx="6" cy="15" r="1.8" fill="#31A68E" stroke="#fff" stroke-width="1"/>
+      <circle cx="10" cy="10" r="1.8" fill="#E6AA50" stroke="#fff" stroke-width="1"/>
+      <circle cx="15" cy="13" r="1.8" fill="#31A68E" stroke="#fff" stroke-width="1"/>
+      <circle cx="21" cy="5" r="1.8" fill="#E6AA50" stroke="#fff" stroke-width="1"/>
+    </g>
+  </g>
+  <g id="weather" aria-label="weather" data-center-x="51.02129" data-center-y="24.05563">
+    <g transform="translate(44.24129 17.27563) scale(0.5650000000000001)" fill="none" stroke="#193E4A" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round">
+      <g stroke="#E6AA50" stroke-width="1.9">
+        <path d="M15.8 1.3V.2M21.1 2.9L22 2M22.4 8.2H23.6M10.7 3L9.8 2.1" fill="none" stroke="#FFFFFF" stroke-width="3.8" paint-order="stroke fill"/>
+        <circle cx="15.8" cy="8.1" r="4.5" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="3.8" paint-order="stroke fill"/>
+      </g>
+      <path d="M6 20C2 20 .8 15.7 3.7 13.1C4.9 12 6.2 11.8 7.7 12.2C8.4 7.4 14.1 6.7 16.5 10.9C17 11.6 17.3 12.4 17.4 13.2C22.2 12.4 24 18.2 20.2 20Z" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="3.8" paint-order="stroke fill"/>
+    </g>
+    <g transform="translate(44.24129 17.27563) scale(0.5650000000000001)" fill="none" stroke="#193E4A" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round">
+      <g stroke="#E6AA50" stroke-width="1.9">
+        <path d="M15.8 1.3V.2M21.1 2.9L22 2M22.4 8.2H23.6M10.7 3L9.8 2.1"/>
+        <circle cx="15.8" cy="8.1" r="4.5" fill="#E6AA50" stroke="none"/>
+      </g>
+      <path d="M6 20C2 20 .8 15.7 3.7 13.1C4.9 12 6.2 11.8 7.7 12.2C8.4 7.4 14.1 6.7 16.5 10.9C17 11.6 17.3 12.4 17.4 13.2C22.2 12.4 24 18.2 20.2 20Z" fill="#3983B3" stroke="none"/>
+    </g>
+  </g>
+  <g id="knowledge" aria-label="knowledge" data-center-x="76.97871" data-center-y="24.05563">
+    <g transform="translate(70.73871000000001 17.81563) scale(0.52)" fill="none" stroke="#193E4A" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M12 6C9 3.5 5 3 2 4V20C5 19 9 19 12 21Z" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="3.8" paint-order="stroke fill"/>
+      <path d="M12 6C15 3.5 19 3 22 4V20C19 19 15 19 12 21Z" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="3.8" paint-order="stroke fill"/>
+      <path d="M5.3 8H8.7M5.3 12H8.7M15.3 8H18.7M15.3 12H18.7" stroke="#FFFFFF" stroke-width="3.8" fill="none" paint-order="stroke fill"/>
+    </g>
+    <g transform="translate(70.73871000000001 17.81563) scale(0.52)" fill="none" stroke="#193E4A" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M12 6C9 3.5 5 3 2 4V20C5 19 9 19 12 21Z" fill="#E3F3EC" stroke="#31A68E" stroke-width="1.7"/>
+      <path d="M12 6C15 3.5 19 3 22 4V20C19 19 15 19 12 21Z" fill="#FFF0D3" stroke="#31A68E" stroke-width="1.7"/>
+      <path d="M5.3 8H8.7M5.3 12H8.7M15.3 8H18.7M15.3 12H18.7" stroke="#193E4A" stroke-width="1.4"/>
+    </g>
+  </g>
+  <g id="cases" aria-label="cases" data-center-x="97.97871" data-center-y="39.31302">
+    <g transform="translate(91.73871000000001 33.07302) scale(0.52)" fill="none" stroke="#193E4A" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M7 3H20V13" stroke="#FFFFFF" fill="none" stroke-width="3.8" paint-order="stroke fill"/>
+      <path d="M3 7H16V21H3Z" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="3.8" paint-order="stroke fill"/>
+      <path d="M6 11H12M6 15H9" stroke="#FFFFFF" fill="none" stroke-width="3.8" paint-order="stroke fill"/>
+      <circle cx="17.5" cy="17.5" r="6" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="3.8" paint-order="stroke fill"/>
+      <path d="M17.5 14.2V17.5L20 19" stroke="#FFFFFF" stroke-width="3.8" fill="none" paint-order="stroke fill"/>
+    </g>
+    <g transform="translate(91.73871000000001 33.07302) scale(0.52)" fill="none" stroke="#193E4A" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M7 3H20V13" stroke="#3983B3"/>
+      <path d="M3 7H16V21H3Z" fill="#fff" stroke="#3983B3"/>
+      <path d="M6 11H12M6 15H9" stroke="#31A68E"/>
+      <circle cx="17.5" cy="17.5" r="6" fill="#FCE8C2" stroke="#E6AA50" stroke-width="1.7"/>
+      <path d="M17.5 14.2V17.5L20 19" stroke="#193E4A" stroke-width="1.7"/>
+    </g>
+  </g>
+  <g id="toolbox" aria-label="toolbox" data-center-x="39.31302" data-center-y="97.97871">
+    <g transform="translate(32.71302 91.37871000000001) scale(0.5499999999999999)" fill="none" stroke="#193E4A" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M8 6V4C8 2.9 9 2 10 2H14C15 2 16 2.9 16 4V6" stroke="#FFFFFF" stroke-width="3.8" fill="none" paint-order="stroke fill"/>
+      <rect x="2" y="7" width="20" height="14" rx="2.2" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="3.8" paint-order="stroke fill"/>
+      <path d="M4.2 6H19.8A2.2 2.2 0 0 1 22 8.2V11.6H2V8.2A2.2 2.2 0 0 1 4.2 6Z" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="3.8" paint-order="stroke fill"/>
+      <path d="M2 11.8H22" stroke="#FFFFFF" stroke-width="3.8" fill="none" paint-order="stroke fill"/>
+      <rect x="5" y="10" width="2.3" height="4.2" rx=".5" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="3.8" paint-order="stroke fill"/>
+      <rect x="16.7" y="10" width="2.3" height="4.2" rx=".5" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="3.8" paint-order="stroke fill"/>
+      <path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94Z" transform="translate(8.4 12.5) scale(.3)" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="3.8" paint-order="stroke fill"/>
+    </g>
+    <g transform="translate(32.71302 91.37871000000001) scale(0.5499999999999999)" fill="none" stroke="#193E4A" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M8 6V4C8 2.9 9 2 10 2H14C15 2 16 2.9 16 4V6" stroke="#193E4A" stroke-width="1.8"/>
+      <rect x="2" y="7" width="20" height="14" rx="2.2" fill="#3983B3" stroke="none"/>
+      <path d="M4.2 6H19.8A2.2 2.2 0 0 1 22 8.2V11.6H2V8.2A2.2 2.2 0 0 1 4.2 6Z" fill="#31A68E" stroke="none"/>
+      <path d="M2 11.8H22" stroke="#193E4A" stroke-width="1.2"/>
+      <rect x="5" y="10" width="2.3" height="4.2" rx=".5" fill="#E6AA50" stroke="none"/>
+      <rect x="16.7" y="10" width="2.3" height="4.2" rx=".5" fill="#E6AA50" stroke="none"/>
+      <path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94Z" transform="translate(8.4 12.5) scale(.3)" fill="#fff" stroke="none"/>
+    </g>
+  </g>
+  <g id="forecast" aria-label="forecast" data-center-x="64" data-center-y="106">
+    <g transform="translate(57.88 99.88) scale(0.5099999999999999)" fill="none" stroke="#193E4A" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round">
+      <rect x="3" y="13" width="4.6" height="8" rx=".9" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="3.8" paint-order="stroke fill"/>
+      <rect x="9.7" y="8" width="4.6" height="13" rx=".9" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="3.8" paint-order="stroke fill"/>
+      <rect x="16.4" y="2" width="4.6" height="19" rx=".9" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="3.8" paint-order="stroke fill"/>
+    </g>
+    <g transform="translate(57.88 99.88) scale(0.5099999999999999)" fill="none" stroke="#193E4A" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round">
+      <rect x="3" y="13" width="4.6" height="8" rx=".9" fill="#3983B3" stroke="none"/>
+      <rect x="9.7" y="8" width="4.6" height="13" rx=".9" fill="#E6AA50" stroke="none"/>
+      <rect x="16.4" y="2" width="4.6" height="19" rx=".9" fill="#31A68E" stroke="none"/>
+    </g>
+  </g>
+  <g id="orchestrate" aria-label="orchestrate" data-center-x="88.68698" data-center-y="97.97871">
+    <g transform="translate(82.68698 91.97871) scale(0.5)" fill="none" stroke="#193E4A" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M12 8V12L4 18M12 12L20 18" stroke="#FFFFFF" stroke-width="3.8" fill="none" paint-order="stroke fill"/>
+      <circle cx="12" cy="5.5" r="3.3" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="3.8" paint-order="stroke fill"/>
+      <circle cx="4" cy="19" r="3.3" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="3.8" paint-order="stroke fill"/>
+      <circle cx="20" cy="19" r="3.3" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="3.8" paint-order="stroke fill"/>
+    </g>
+    <g transform="translate(82.68698 91.97871) scale(0.5)" fill="none" stroke="#193E4A" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M12 8V12L4 18M12 12L20 18" stroke="#193E4A" stroke-width="2"/>
+      <circle cx="12" cy="5.5" r="3.3" fill="#E6AA50" stroke="none"/>
+      <circle cx="4" cy="19" r="3.3" fill="#3983B3" stroke="none"/>
+      <circle cx="20" cy="19" r="3.3" fill="#31A68E" stroke="none"/>
+    </g>
+  </g>
 </svg>
